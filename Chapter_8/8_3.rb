@@ -1,0 +1,2 @@
+Exception handling tells ruby what to display when there is input or otherwise which creates a system error.
+This prevents the program from stopping. Instead, an error message is displayed and the program continues.
